@@ -1,0 +1,1 @@
+This was a little more fun, although still very simple. The `set1 & set2` trick to find the intersection between two sets is something I memorized a long time ago and never forgot. Glad it came in handy here.
